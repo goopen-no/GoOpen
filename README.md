@@ -1,9 +1,9 @@
-# The GoOpenCon 2021
+# The GoOpen 2021
 The Web was designed to bring people together and make knowledge freely available. It has changed the world for good and improved the lives of billions. Yet, many people are still unable to access its benefits and, for others, using the internet comes with too many unacceptable costs.
 
-The vision for GoOpenCon 2021 is to create awareness amongst peers regarding threats to the open web and supporting organizations, processes and people who promote the open Web by puting the spotlite on their work. GoOpenCon will also give space and attention to startups and established companies that espouse the Web’s future as a basic right and public good. We also want to raise awerness political representatives and companies to ensure support and compliance with this Contract and support for the open Web.
+The vision for GoOpen 2021 is to create awareness amongst peers regarding threats to the open web and support organizations, processes and people who promote the open Web by puting the spotlite on their work at our conference. GoOpenCon will also give space and attention to startups and established companies that espouse the Web’s future as a basic right and public good. We also want to raise awerness political representatives and companies to ensure support and compliance with this Contract and support for the open Web.
 
-The subtopics for GoOpenCon 2021 will focus on the cornerstones of an open and free interent. 
+The subtopics for GoOpen 2021 will focus on the cornerstones of an open and free interent. 
 * Open Standards
 * Open Source 
 * Open content and free culture 
